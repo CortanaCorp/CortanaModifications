@@ -3,4 +3,4 @@ REM	!!This will create a hidden file called cort.config*
 $git add commandPckge id:isa91idu9as8918.29usd928@github.com
 $cd *arbritpcname[recieve&fromUser]*\downloads\82hsa81jksda91jfhg0a2ogl::189ajs919694520\hidden\cort.config
 $key.hh/hit."ENTER&stop0"
-REM !!!!!THE REASON YOU SEE US TURNING OFF YOUR IP IN THE OTHER .BAT FILE IS BECAUSE WE NEED TO TURN IT OFF IN ORDER FOR THIS SOFTWARE TO WORK!!!!!!!!
+
